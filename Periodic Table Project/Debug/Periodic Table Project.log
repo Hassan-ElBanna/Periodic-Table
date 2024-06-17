@@ -1,0 +1,8 @@
+﻿  Periodic Table Project.cpp
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(868,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(914,31): warning C4018: '<': signed/unsigned mismatch
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(1031,31): warning C4018: '<': signed/unsigned mismatch
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(888,25): warning C4101: 'sure2': unreferenced local variable
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(888,18): warning C4101: 'sure1': unreferenced local variable
+D:\Hassan\Projects\C++\Periodic Table Project\Periodic Table Project\Periodic Table Project.cpp(888,32): warning C4101: 'sure3': unreferenced local variable
+  Periodic Table Project.vcxproj -> D:\Hassan\Projects\C++\Periodic Table Project\Debug\Periodic Table Project.exe
